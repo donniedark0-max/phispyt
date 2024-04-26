@@ -77,6 +77,6 @@ def main():
 
         pygame.display.flip()
 
-# Ejecutar la función principal
+# Ejecutar la función principal :D
 if __name__ == "__main__":
     main()

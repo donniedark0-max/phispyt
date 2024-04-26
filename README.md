@@ -6,6 +6,9 @@ Para esto se usó `python` y la libreria `pygame`, para instalarlo ejecuta el si
 ```
   pip install pygame
   ```
+y listo.
+
+
 
 ## Gracias
 
